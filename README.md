@@ -1,4 +1,4 @@
-### Hello, World! Eu sou o Victor Barbosa, cientista de dados 💻
+### Hello, World! Eu sou o Victor Barbosa, cientista de dado!
 <div align="center">
   <a href="https://github.com/victorxbarbosa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorxbarbosa&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=blue&icon_color=red"/>
