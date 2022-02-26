@@ -1,14 +1,25 @@
-### Hello, World! Eu sou o Victor Barbosa, cientista de dados!
+### Hello, World! I´m Victor Barbosa.
+
 <div align="center">
-  <a href="https://github.com/victorxbarbosa">
+  <a href="https://github.com/victorxbarboa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorxbarbosa&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=blue&icon_color=red"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorxbarbosa&layout=compact&langs_count=7&theme=dark&title_color=blue&icon_color=red"/
+
 </div>
-  <div style="display: inline_block"><br>  
+  <div style="display: inline_block"><br>
+</div>
+ 
+ ##
+    
+### Languages:
+ 
+</div>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
     
  ##
+ 
+ ### Contacts:
     
 </div>
   <a href="https://instagram.com/victorxbarbosa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
