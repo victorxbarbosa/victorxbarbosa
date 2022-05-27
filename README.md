@@ -1,4 +1,4 @@
-## Olá galera!! Eu sou Victor Barbosa, criador de conteúdo em ciência de dados e tecnologia!!
+## Olá eu sou o Victor Barbosa, criador de conteúdo em ciência de dados e tecnologia!!
 
 <div align="center">
   <a href="https://github.com/victorxbarboa">
@@ -10,11 +10,17 @@
 </div>
  
  ##
-    
-### Languages:
  
 </div>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="V-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="V-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <img align="center" alt="V-AWS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="V-Jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
+  <img align="center" alt="V-Kaggle" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg">
+  <img align="center" alt="V-Numpy" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
+  <img align="center" alt="V-OpenCv" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg">
+  <img align="center" alt="V-Pandas" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
+  <img align="center" alt="V-Azure" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
 </div>
     
  ##
