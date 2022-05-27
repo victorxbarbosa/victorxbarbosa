@@ -1,4 +1,4 @@
-## Olá galera eu sou Victor Barbosa, criador de conteúdo em ciência de dados e tecnologia!
+## Olá galera!! Eu sou Victor Barbosa, criador de conteúdo em ciência de dados e tecnologia!!
 
 <div align="center">
   <a href="https://github.com/victorxbarboa">
