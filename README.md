@@ -50,5 +50,5 @@ Estou cursando bacharel tecnológico em Ciência de dados, gosto de aprender e c
     
   
 ## Projetos
-  
-* **Análise dos dados do Airbnb sobre Edimburgo:** https://bityli.com/jQFkUD
+
+* [**Análise dos dados do Airbnb sobre Edimburgo**](https://bityli.com/jQFkUD)
