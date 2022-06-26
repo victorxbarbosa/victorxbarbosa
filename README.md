@@ -48,4 +48,7 @@ Estou cursando bacharel tecnológico em Ciência de dados, gosto de aprender e c
   <img align="center" alt="V-Scikit-Learn" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png">
 </div>
     
+  
 ## Projetos
+  
+* **Análise dos dados do Airbnb sobre Edimburgo:**
