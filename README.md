@@ -52,3 +52,4 @@ Estou cursando bacharel tecnológico em Ciência de dados, gosto de aprender e c
 ## Projetos
 
 * [**Análise dos dados do Airbnb sobre Edimburgo**](https://colab.research.google.com/drive/1Quj_mL32ZTNMZcW0X-7-TevdoJDwrwRA?usp=sharing)
+* [**Análise dos dados da COVID-19**](https://github.com/victorxbarbosa/victorxbarbosa/blob/main/Estudo_de_caso_da_COVID_19.ipynb)
