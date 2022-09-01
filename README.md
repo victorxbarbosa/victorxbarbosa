@@ -3,7 +3,7 @@
 [![author](https://img.shields.io/badge/author-victorbarbosa-blue.svg)](https://www.linkedin.com/in/victorxbarbosa/) [![](https://img.shields.io/badge/python-3.7+-yellow.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-red.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/victorxbarbosa)
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/100004569/174456537-3b2e7b3f-3d35-4409-93c2-7aec3c5655f3.png" >
+  <img src="https://user-images.githubusercontent.com/100004569/187988593-31357b24-3ecb-4d59-872c-a1a1cd71c36b.png" >
 </p>
 
 ## Um pouco de mim
