@@ -1,6 +1,5 @@
 # 💫 About Me:
-Olá, muito prazer! ✌<br>Eu sou o Victor, estou na graduação em ciência de dados.<br>Em meu portifólio desenvolvi projetos com extação, limpeza, análise de dados e modelos de Machine Learning utilizando a linguaguem Python e suas bibliotcas.<br>Acredito que a ciência de dados é o caminho que leva as melhores soluções! Aprender, compartilhar e usar meu conhecimento para contribuir neste caminho é minha motivação.<br>Sinta-se à vontade para entrar em contato comigo para tirar dúvidas, pedir conselhos ou me ensinar alguma coisa!
-
+Olá, muito prazer! ✌<br>Eu sou o Victor, estou na graduação em ciência de dados.<br>Em meu portifólio desenvolvi projetos com extação, limpeza, análise de dados e modelos de Machine Learning utilizando a linguaguem Python e suas bibliotcas.<br>Acredito que a ciência de dados é o caminho que leva as melhores soluções! Aprender, compartilhar e usar meu conhecimento para contribuir neste caminho é minha motivação.<br>Sinta-se à vontade para entrar em contato!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/victorxbarbosa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/victorxbarbosa) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@victorxbarbosa) 
