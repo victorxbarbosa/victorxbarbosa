@@ -1,57 +1,15 @@
-# Olá, eu sou o Victor Barbosa!
+# 💫 About Me:
+Olá, muito prazer! ✌<br>Eu sou o Victor, estou na graduação em ciência de dados.<br>Em meu portifólio desenvolvi projetos com extação, limpeza, análise de dados e modelos de Machine Learning utilizando a linguaguem Python e suas bibliotcas.<br>Acredito que a ciência de dados é o caminho que leva as melhores soluções! Aprender, compartilhar e usar meu conhecimento para contribuir neste caminho é minha motivação.<br>Sinta-se à vontade para entrar em contato comigo para tirar dúvidas, pedir conselhos ou me ensinar alguma coisa!
 
-[![author](https://img.shields.io/badge/author-victorbarbosa-blue.svg)](https://www.linkedin.com/in/victorxbarbosa/) [![](https://img.shields.io/badge/python-3.7+-yellow.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-red.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/victorxbarbosa)
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/100004569/187988593-31357b24-3ecb-4d59-872c-a1a1cd71c36b.png" >
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/victorxbarbosa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/victorxbarbosa) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@victorxbarbosa) 
 
-## Um pouco de mim
-Estou cursando bacharel tecnológico em Ciência de dados, gosto de aprender e compartilhar conhecimento, veja meu blog no Medium. Acesse meu portfólio para ver meus projetos desenvolvidos em ciência de dados.
+# 💻 Tech Stack:
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=victorxbarbosa&theme=algolia&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=victorxbarbosa&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=victorxbarbosa&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-***Ciência de Dados | Big Data & Analytics***
-
-## Contato
-</div>
-  <a href="https://instagram.com/victorxbarbosa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  <a href = "victor.silva.barbosa180@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
- <a href="https://www.linkedin.com/in/victorxbarbosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
- <a href="https://medium.com/@victorxbarbosa" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
-</div>
-
-##
-    
-<div align="center">
-  <a href="https://github.com/victorxbarboa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorxbarbosa&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=blue&icon_color=red"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorxbarbosa&layout=compact&langs_count=7&theme=dark&title_color=blue&icon_color=red"/
-</div>
-    
-</div>
-  <div style="display: inline_block"><br>
-</div>
- 
- 
-## Ferramentas
-    
-</div>
-    
-  <img align="left" alt="V-Python" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png">
-  <img align="left" alt="V-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="left" alt="V-SQL" height="40" width="40" src="https://www.svgrepo.com/show/117653/sql-file-format.svg">
-  <img align="left" alt="V-Jupyter" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="left" alt="V-Anaconda" height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv90odFZigOXVqzpieh2RrNhDEB5VRrcZTGyLQ8gLs7fDNii-INElQiTdOe9IDPVq6TR4&usqp=CAU">
-  <img align="left" alt="V-Collab" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/2560px-Google_Colaboratory_SVG_Logo.svg.png">
-  <img align="left" alt="V-Pandas" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png">
-  <img align="left" alt="V-Numpy" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
-  <img align="left" alt="V-Matplotlib" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png">
-  <img align="left" alt="V-Seaborn" height="40" width="40" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg">
-  <img align="center" alt="V-Scikit-Learn" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png">
-    
-</div>
-    
-  
-## Projetos
-
-* [**Análise dos dados do Airbnb sobre Edimburgo**](https://github.com/victorxbarbosa/analise-dos-dados-do-airbnb-sobre-edimburgo-esc-cia/blob/main/README.md)
-* [**Análise dos dados da COVID-19**](https://github.com/victorxbarbosa/Analise-da-Covid19-no-mundo/blob/main/README.md)
+![Snake animation](https://github.com/victorxbarbosa/victorxbarbosa/blob/output/github-contribution-grid-snake.svg)
