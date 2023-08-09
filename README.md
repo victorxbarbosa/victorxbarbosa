@@ -1,6 +1,19 @@
 # 💫 About Me:
 Olá, muito prazer! ✌<br>Eu sou o Victor, estou na graduação em ciência de dados.<br>Em meu portifólio desenvolvi projetos com extação, limpeza, análise de dados e modelos de Machine Learning utilizando a linguaguem Python e suas bibliotcas.<br>Acredito que a ciência de dados é o caminho que leva as melhores soluções! Aprender, compartilhar e usar meu conhecimento para contribuir neste caminho é minha motivação.<br>Sinta-se à vontade para entrar em contato!
 
+Olá, muito prazer! Eu sou o Victor!
+
+Eu acredito que a ciência de dados é o caminho que nos leva as melhores decisões, aprender e utilizar meus conhecimentos para contribuir neste caminho é minha motivação.
+
+Desde de pequeno sou apaixonado por esportes, joguei futebol competitivo nas categorias de base de dois clubes. A vivência no esporte me ajudou na dedicação, determinação, foco e trabalho em equipe.
+
+Estou na graduação em Ciência da Computação e Ciência de Dados, desenolvi um portifólio com projetos em ciência de dados como extração, limpeza, análise, visualização (Power BI) e criação de modelos de Machine Learning para detecção de fraudes em cartões de crédito, resolvendo problemas de churn, análise de risco e crédito e classificador de fake news. Todos utilizando a linguagem SQL, Python e suas bibliotecas (Pandas, Numpy, Matplotlib, Seaborn, Sckit-Learn) e alguns serviços de nuvem.
+
+Fique á vontade para entrar em contato! 
+
+https://linkedin.com/victorxbarbosa
+https://medium.com/@victorxbarbosa
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/victorxbarbosa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/victorxbarbosa) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@victorxbarbosa) 
 
