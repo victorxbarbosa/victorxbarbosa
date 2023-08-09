@@ -1,6 +1,4 @@
 # 💫 About Me:
-Olá, muito prazer! ✌<br>Eu sou o Victor, estou na graduação em ciência de dados.<br>Em meu portifólio desenvolvi projetos com extação, limpeza, análise de dados e modelos de Machine Learning utilizando a linguaguem Python e suas bibliotcas.<br>Acredito que a ciência de dados é o caminho que leva as melhores soluções! Aprender, compartilhar e usar meu conhecimento para contribuir neste caminho é minha motivação.<br>Sinta-se à vontade para entrar em contato!
-
 Olá, muito prazer! Eu sou o Victor!
 
 Eu acredito que a ciência de dados é o caminho que nos leva as melhores decisões, aprender e utilizar meus conhecimentos para contribuir neste caminho é minha motivação.
