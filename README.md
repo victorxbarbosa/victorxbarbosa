@@ -7,10 +7,7 @@ Desde de pequeno sou apaixonado por esportes, joguei futebol competitivo nas cat
 
 Estou na graduação em Ciência da Computação e Ciência de Dados, desenolvi um portifólio com projetos em ciência de dados como extração, limpeza, análise, visualização (Power BI) e criação de modelos de Machine Learning para detecção de fraudes em cartões de crédito, resolvendo problemas de churn, análise de risco e crédito e classificador de fake news. Todos utilizando a linguagem SQL, Python e suas bibliotecas (Pandas, Numpy, Matplotlib, Seaborn, Sckit-Learn) e alguns serviços de nuvem.
 
-Fique á vontade para entrar em contato! 
-
-https://linkedin.com/victorxbarbosa
-https://medium.com/@victorxbarbosa
+Fique á vontade para entrar em contato!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/victorxbarbosa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/victorxbarbosa) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@victorxbarbosa) 
